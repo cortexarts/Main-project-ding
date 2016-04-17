@@ -24,3 +24,124 @@ ExportedObj/
 
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
+
+*.wav
+*.m4v
+*.mp4
+*.psd
+*.PSD
+*.tif
+
+# the following have been added by find
+# find /Users/clcarnhem/ownCloud/Main-project-ding -size +50M | cat >> .gitignore
+/Users/clcarnhem/ownCloud/Main-project-ding/Library/metadata/48/483aa642acdad084e92e8e89c4718853
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Audio/Music/Action.wav
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Audio/Music/Deepdown.wav
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Audio/Music/Dubstep.wav
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Baker House/Textures/Barrel.tif
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Custom spul/muziek n shit/Another catchy backgroundsong.wav
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Custom spul/muziek n shit/Catchy backgroundsong.wav
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Custom spul/muziek n shit/cortexarts death thing.m4v
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Custom spul/muziek n shit/cortexarts death thing.mp4
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Custom spul/muziek n shit/Deepdown.wav
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Custom spul/muziek n shit/Kopie van reason song 6.0.wav
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Custom spul/muziek n shit/Kopie van reasong song actie (minigame jasper) 1.0.wav
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Custom spul/muziek n shit/Progressive house.wav
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Custom spul/muziek n shit/ride out.wav
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Custom spul/muziek n shit/ride out2.wav
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Custom spul/muziek n shit/Slow phased backgroundsong.wav
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Custom spul/muziek n shit/wardrum.wav
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Custom spul/objects/stones.obj
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/DynamicWater/Demos/Assets/Textures/Skybox_Cubemap.cubemap
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Models/Blacksmith_building.FBX
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Models/Bridge_02.FBX
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Models/Buildings/Towers/Tower_a.tif
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Models/Human Spaceflight - Mercury, Gemeni, Apollo era/Mercury 3 Capsule, Freedom 7 (Michael Carbajal, NASA HQ)/freedom7.FBX
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Models/Human Spaceflight - Shuttle, ISS era/International Space Station High Res (JSC)/ISS complete_2011.fbx
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Models/Ships/Ship_wreck_whole_02.FBX
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Models/Terrain/Bridge_terrain_01.FBX
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Models/Terrain/Cliffs/Forest_01_Diff.psd
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Models/Terrain/Cliffs/Forest_01_NM.psd
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Models/Terrain/Cliffs/Moss_01_A.psd
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Models/Terrain/Cliffs/Moss_01_N.psd
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Models/Terrain/Cliffs/Moss_02_A.psd
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Models/Terrain/Cliffs/Moss_02_Dark_a.tif
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Models/Terrain/Cliffs/Moss_03_A.psd
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Models/Terrain/Cliffs/Moss_03_N.psd
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Models/Terrain/Cliffs/Moss_desaturated.tif
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Models/Terrain/Cliffs/MossMask_01.psd
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Models/Terrain/Cliffs/MossMask_02.tif
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Models/Terrain/Cliffs/TiledCliffs_01_AO.psd
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Models/Terrain/Cliffs/TiledCliffs_01_Diff.psd
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Models/Terrain/Cliffs/TiledCliffs_01_NM.psd
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Models/Terrain/Cliffs/TiledCliffs_01_SG.psd
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/PainterlyNature/Textures/Rock01.tga
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/PainterlyNature/Textures/Rock01alapN.tga
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/PainterlyNature/Textures/Rock01N.tga
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/PainterlyNature/Textures/Rock02.tga
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/PainterlyNature/Textures/Rock02N.tga
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Palm Trees/Textures/Palm trees diffuse.tga
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Palm Trees/Textures/Palm trees normal.tga
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Skies/NoEmotion/04-23_Day_A.hdr
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Skies/NoEmotion/04-23_Sun_A.hdr
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Skies/NoEmotion/04-29_Sun_A.hdr
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Skies/NoEmotion/05-28_Day_A.hdr
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Skies/NoEmotion/06-07_Day_E.hdr
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Skies/NoEmotion/08-08_Sunset_C.hdr
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Sky FX Pack/penispoep/MountainPeaks/MountainPeak_01_mesh_diff.psd
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Sky FX Pack/penispoep/MountainPeaks/MountainPeak_01_mesh_normals.tif
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Sky FX Pack/penispoep/MountainPeaks/MountainPeak_01_mesh_occlusion.tif
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Sky FX Pack/penispoep/MountainPeaks/MountainPeak_01_NM.tif
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Sky FX Pack/penispoep/MountainPeaks/MountainPeak_02_NM.tif
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Sky FX Pack/penispoep/MountainPeaks/MountainPeak_03_NM.tif
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Standard Assets/Vehicles/Aircraft/Textures/AircraftFuselageNormals.png
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Standard Assets/Vehicles/Aircraft/Textures/AircraftWingsPropellerNormals.png
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Standard Assets/Vehicles/Car/Textures/SkyCarBodyNormals.png
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Standard Assets/Vehicles/Car/Textures/SkyCarBodyOcclusion.png
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Terrain/BridgeTerrain_01.FBX
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Terrain/BridgeTerrain_01_AO.tif
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Terrain/BridgeTerrain_01_Diff.tif
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Terrain/BridgeTerrain_01_Mask.tif
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Terrain/BridgeTerrain_01_NM.tif
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Terrain/Landscape_01.FBX
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Terrain Demo Assets/Textures/Sand (Beachripples) 1.psd
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Vegetation/Low/all_bushes_diff.PSD
+/Users/clcarnhem/ownCloud/Main-project-ding/Assets/Vegetation/Low/Fern_SG.tif
+/Users/clcarnhem/ownCloud/Main-project-ding/Library/metadata/0a/0ad6f20f99271564d93962d2b51bf9b0
+/Users/clcarnhem/ownCloud/Main-project-ding/Library/metadata/10/10dd0410a37550f4eb5c424507a8f978
+/Users/clcarnhem/ownCloud/Main-project-ding/Library/metadata/14/14b66431891d04445bec79511c271b94.resource
+/Users/clcarnhem/ownCloud/Main-project-ding/Library/metadata/25/251ddc633ea20db46a3628b2b36a9d8d
+/Users/clcarnhem/ownCloud/Main-project-ding/Library/metadata/25/25f95c6ca365f9140a69620a7ddc4ae9
+/Users/clcarnhem/ownCloud/Main-project-ding/Library/metadata/2e/2edf5c9e45adf214591dbc098bd69828
+/Users/clcarnhem/ownCloud/Main-project-ding/Library/metadata/3b/3b5b7be0f2332c24f89a2af018daa62d
+/Users/clcarnhem/ownCloud/Main-project-ding/Library/metadata/48/483aa642acdad084e92e8e89c4718853
+/Users/clcarnhem/ownCloud/Main-project-ding/Library/metadata/4a/4a2fe991ed466e44da7d1c55224a5209
+/Users/clcarnhem/ownCloud/Main-project-ding/Library/metadata/4e/4e2f32e9a1fefc24092337ae061f3dbc
+/Users/clcarnhem/ownCloud/Main-project-ding/Library/metadata/50/509becac838e1b64cbf0d11a514eba7e
+/Users/clcarnhem/ownCloud/Main-project-ding/Library/metadata/57/57336ada3abfd3940a295effd666cdf9.resource
+/Users/clcarnhem/ownCloud/Main-project-ding/Library/metadata/5a/5adde1b57186146f5a6d5d1b2ab96278.resource
+/Users/clcarnhem/ownCloud/Main-project-ding/Library/metadata/5b/5b834380674bf7e48ade2f253138543f
+/Users/clcarnhem/ownCloud/Main-project-ding/Library/metadata/62/6290b679f10993b4f812c0514600a1c4
+/Users/clcarnhem/ownCloud/Main-project-ding/Library/metadata/6d/6dd63d0c1c77887499a8c82c3a026934
+/Users/clcarnhem/ownCloud/Main-project-ding/Library/metadata/6e/6e8fd73a92e25423cbe3ff1006e102a3.resource
+/Users/clcarnhem/ownCloud/Main-project-ding/Library/metadata/74/740caf694c995c442a325d68cb54313e
+/Users/clcarnhem/ownCloud/Main-project-ding/Library/metadata/7f/7f456b051105f4599a84a5c17656fc23
+/Users/clcarnhem/ownCloud/Main-project-ding/Library/metadata/81/81f7d9145d4829d4db4e2cd6513b72f4
+/Users/clcarnhem/ownCloud/Main-project-ding/Library/metadata/86/8617c3181eef60e4480b9e9ffa8ef6a7
+/Users/clcarnhem/ownCloud/Main-project-ding/Library/metadata/89/890bd3d20805feb41b4a72ebf498bc5b
+/Users/clcarnhem/ownCloud/Main-project-ding/Library/metadata/8e/8e06bbd84e84147ea9c59ce2c06ef5cd.resource
+/Users/clcarnhem/ownCloud/Main-project-ding/Library/metadata/92/92f9e3e20c8f65d49ad2df67ec586b3e
+/Users/clcarnhem/ownCloud/Main-project-ding/Library/metadata/93/93e76ab820b451547b0637a6df7b1fec
+/Users/clcarnhem/ownCloud/Main-project-ding/Library/metadata/95/953e10b9512ddaa44844aa5fc2a4614d
+/Users/clcarnhem/ownCloud/Main-project-ding/Library/metadata/a2/a2203213fc4dd244e90e1e9d1862c097
+/Users/clcarnhem/ownCloud/Main-project-ding/Library/metadata/b0/b09bd640fd1bec64598625ce38d4bbbb
+/Users/clcarnhem/ownCloud/Main-project-ding/Library/metadata/ba/bade507978d2c6c4ab5848d25d287466
+/Users/clcarnhem/ownCloud/Main-project-ding/Library/metadata/bd/bd0d469704e7c934ebddc45ece4c1868
+/Users/clcarnhem/ownCloud/Main-project-ding/Library/metadata/c7/c7e9ae087ac710a4980ed418c192e2fb
+/Users/clcarnhem/ownCloud/Main-project-ding/Library/metadata/ce/ceeb979ebdb05a845a014678686dc372
+/Users/clcarnhem/ownCloud/Main-project-ding/Library/metadata/d0/d0c159c1dc4a9b44ca66c444bc6a46f5.resource
+/Users/clcarnhem/ownCloud/Main-project-ding/Library/metadata/d3/d378ff11c42566d46b0b11cd91eca3a3
+/Users/clcarnhem/ownCloud/Main-project-ding/Library/metadata/d4/d4ffb7d0ebee510498fba9d50f2296f7
+/Users/clcarnhem/ownCloud/Main-project-ding/Library/metadata/d6/d6934296a42bc4b28acb481223f97fbf
+/Users/clcarnhem/ownCloud/Main-project-ding/Library/metadata/f2/f2340a0ff5e6c4c36b5293b570d005d1.resource
+/Users/clcarnhem/ownCloud/Main-project-ding/Library/metadata/f7/f7c27487b4792e640b8816a7e0e2f5dd
